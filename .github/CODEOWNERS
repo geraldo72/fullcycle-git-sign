@@ -1,3 +1,4 @@
 *.js @geraldo72
 .github/ @geraldo72
 *.* @geraldo72
+*.java @geraldo72
